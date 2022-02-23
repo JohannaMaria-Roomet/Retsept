@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
+.heading {
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+body {
+    background-color: grey;
+    color: white;
+}
+
+.koostisosad {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.koostisosad-tabel {
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+.valmistamine {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.valmistamine ol {
+    border: 1px solid white;
+    margin: 10px auto;
+    width: 75%;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.allikas {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+    padding-top: 20px;
+}
